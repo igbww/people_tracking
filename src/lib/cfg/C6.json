@@ -1,0 +1,12 @@
+{
+    "root": "/home/q116/anaconda3/envs/cndFairMOT/datasetC6",
+    "train": {
+        "C6_train": "src/data/C6.train"
+    },
+    "test": {
+        "C6_test": "src/data/C6.train"
+    },
+    "test_emb": {
+        "C6_test": "src/data/C6.train"
+    }
+}
